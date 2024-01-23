@@ -33,13 +33,17 @@ Todos os resultados dos testes são salvos dentro da pasta principal com o nome 
 Antes de rodar os testes, é necessário possuir os seguintes ítens:
 
 [Python]
+
 [Robot Framework]
 
 ## Cenários
 1 - Listar todos os usuários
+
 2 - Criar um usuario com sucesso
+
 3 - Cenario de erro - URL Inválida
-*A API utilizada para testes aceita a inserção de caracteres especiais, bem como campos em branco, não sendo considerados os mesmos como cenários negativos.
+
+*A API utilizada para testes aceita a inserção de caracteres especiais, bem como campos em branco, não sendo considerados os mesmos como cenários negativos.*
 
 
 ## Configuração do Projeto
