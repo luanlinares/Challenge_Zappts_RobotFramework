@@ -1,4 +1,4 @@
-# Zappts Challenge QA  - Robot Framework#
+# Zappts Challenge QA  - Robot Framework #
 
 Este projeto foi criado para executar testes automatizados de uma API com a criação de um usuário.
 
